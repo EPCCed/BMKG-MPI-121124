@@ -150,6 +150,7 @@ for private study. </blockquote></p>
 <ul>
 <li><a href="https://github.com/EPCCed/BMKG-MPI-121124/raw/main/exercises/road.pdf">Traffic modelling exercise sheet</a></li>
 <li><a href="https://github.com/EPCCed/BMKG-MPI-121124/raw/main/exercises/Cirrus-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on Cirrus</a></li>
+<li><a href="https://github.com/EPCCed/BMKG-MPI-121124/raw/main/exercises/ARCHER2-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on ARCHER2</a></li>
 <li><a href="https://github.com/EPCCed/BMKG-MPI-121124/raw/main/exercises/MPP-templates.tar">Useful files and pieces of code: MPP-templates.tar</a></li>
 <li><a href="https://github.com/EPCCed/BMKG-MPI-121124/raw/main/exercises/MPP-exercises.pdf">MPI exercise sheet</a></li>
 <li><a href="https://github.com/EPCCed/BMKG-MPI-121124/raw/main/exercises/MPP-pi.tar">Detailed solutions to pi calculation example</a>
